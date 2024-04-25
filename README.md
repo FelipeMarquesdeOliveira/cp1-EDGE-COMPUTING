@@ -1,4 +1,4 @@
-# Projeto Vinheria Agnelo
+# Projeto Vinheria Agnello
 
 ## Descrição
 O Projeto Vinheria Agnelo é um sistema embarcado desenvolvido para uma adega de vinhos. Ele utiliza um Arduino Uno e um sensor de luminosidade (LDR) para monitorar a intensidade da luz e garantir que os vinhos sejam armazenados adequadamente, evitando danos causados pela exposição à luz.
